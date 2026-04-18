@@ -1,0 +1,11 @@
+Start 
+Input number n (terms)
+Set: 
+. a = 0
+. b = 1
+Repeat n times:
+. Print a 
+. next = a + b 
+. a = b 
+. b = next 
+Stop

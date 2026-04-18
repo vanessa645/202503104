@@ -1,0 +1,13 @@
+START 
+INPUT n 
+SET a = 0
+SET b =  1
+
+FOR i = 1 TO n
+    PRINT a 
+    next a + b 
+    a = b 
+    b = next
+END FOR 
+
+END

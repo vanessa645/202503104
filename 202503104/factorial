@@ -1,0 +1,9 @@
+START
+INPUT n 
+
+FOR i = 1 TO n 
+    result = result * i 
+END FOR
+
+PRINT result
+END

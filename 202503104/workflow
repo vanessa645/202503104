@@ -1,0 +1,8 @@
+Start
+Input number number 
+Set result = 1
+Loop from 1 to n 
+Multiply result = result * i 
+End loop 
+Output result 
+Stop
